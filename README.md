@@ -1,7 +1,7 @@
 Things about me:
 - 👋 I’m @lobanov-andrey
 Open sourse projects
-- [create-privat-chat.com | https://create-privat-chat.com] sourse files of private chat on TypeScript
+- [create-privat-chat.com](https://github.com/lobanov-andrey/create-private-chat.com) sourse files of private chat on TypeScript
 - 💞️ Comming soon new files...
 
 <!---
