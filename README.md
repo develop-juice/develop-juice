@@ -1,6 +1,9 @@
-Things about me:
+#Things about me:
 - 👋 I’m @lobanov-andrey
-Open sourse projects
+- TypeScript Developer and beginner in Flutter and Golang
+- Start to develop in 2017
+
+#Open sourse projects:
 - [create-privat-chat.com](https://github.com/lobanov-andrey/create-private-chat.com) sourse files of private chat on TypeScript
 - 💞️ Comming soon new files...
 
