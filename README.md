@@ -4,7 +4,7 @@
 - Start to develop in 2017
 
 # Open sourse projects:
-## [create-privat-chat.com](https://github.com/lobanov-andrey/create-private-chat.com) sourse files of private chat on TypeScript And Websocket
+## [create-privat-chat.com](https://github.com/lobanov-andrey/create-private-chat.com) sourse files of private chat on TypeScript React, NodeJS And Websocket
 ![](https://raw.githubusercontent.com/lobanov-andrey/create-private-chat.com/main/preview.gif)
 ## Vingla.ru - site builder on React SSR(ServerSideRender) and Redux on Frotend, S3 and Amazon Simple Email Service, NodeJS, Nginx, MongoDB, Express and login through Google and Yandex at Backend
 ## 💞️ Comming soon new files...
