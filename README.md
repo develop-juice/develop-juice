@@ -4,7 +4,7 @@
 - Start to develop in 2017
 
 # Open sourse projects:
-## [create-privat-chat.com](https://github.com/lobanov-andrey/create-private-chat.com) sourse files of private chat on TypeScript
+## [create-privat-chat.com](https://github.com/lobanov-andrey/create-private-chat.com) sourse files of private chat on TypeScript And Websocket
 ![](https://raw.githubusercontent.com/lobanov-andrey/create-private-chat.com/main/preview.gif)
 ## 💞️ Comming soon new files...
 
