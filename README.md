@@ -4,8 +4,9 @@
 - Start to develop in 2017
 
 # Open sourse projects:
-- [create-privat-chat.com](https://github.com/lobanov-andrey/create-private-chat.com) sourse files of private chat on TypeScript
-- 💞️ Comming soon new files...
+## [create-privat-chat.com](https://github.com/lobanov-andrey/create-private-chat.com) sourse files of private chat on TypeScript
+![](https://raw.githubusercontent.com/lobanov-andrey/create-private-chat.com/main/preview.gif)
+## 💞️ Comming soon new files...
 
 <!---
 lobanov-andrey/lobanov-andrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
