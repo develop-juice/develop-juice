@@ -1,7 +1,7 @@
 # Things about me:
-- 👋 I’m @lobanov-andrey
-- TypeScript Developer and beginner in Flutter and Golang
-- Start to develop in 2017
+- 👋 I’m @lobanov-andrey and Frontend TypeScript Developer
+- In 2017 i started working with HTML & CSS
+- In 2019 i started developing apps with React.js & Express.js
 
 # Open sourse projects:
 ## [create-privat-chat.com](https://github.com/lobanov-andrey/create-private-chat.com) sourse files of private chat on TypeScript React, NodeJS And Websocket
