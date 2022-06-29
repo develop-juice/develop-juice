@@ -4,7 +4,7 @@
 - In 2019 i started developing apps with React.js & Express.js
 
 # Litle projects
-## [todo-list.lobanov.dev](https://github.com/lobanov-andrey/todo-list) TypeScript React Emotion(css in js) and drug and drop from scratch
+## [todo-list.lobanov.dev](https://github.com/lobanov-andrey/todo-list) Drug and drop from scratch, TypeScript, React and Emotion(css in js) 
 ![](https://raw.githubusercontent.com/lobanov-andrey/todo-list/main/preview.gif)
 ## [create-privat-chat.com](https://github.com/lobanov-andrey/create-private-chat.com) on TypeScript React, NodeJS And Websocket
 ![](https://raw.githubusercontent.com/lobanov-andrey/create-private-chat.com/main/preview.gif)
