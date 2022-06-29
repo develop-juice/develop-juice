@@ -3,11 +3,11 @@
 - In 2017 i started working with HTML & CSS
 - In 2019 i started developing apps with React.js & Express.js
 
-# Open sourse projects:
-## [create-privat-chat.com](https://github.com/lobanov-andrey/create-private-chat.com) sourse files of private chat on TypeScript React, NodeJS And Websocket
+# Litle projects
+## [todo-list.lobanov.dev](https://github.com/lobanov-andrey/todo-list) TypeScript React Emotion(css in js) and drug and drop from scratch
+![](https://raw.githubusercontent.com/lobanov-andrey/todo-list/main/preview.gif)
+## [create-privat-chat.com](https://github.com/lobanov-andrey/create-private-chat.com) on TypeScript React, NodeJS And Websocket
 ![](https://raw.githubusercontent.com/lobanov-andrey/create-private-chat.com/main/preview.gif)
-## Vingla.ru - site builder on React SSR(ServerSideRender) and Redux on Frotend, S3 and Amazon Simple Email Service, NodeJS, Nginx, MongoDB, Express and login through Google and Yandex at Backend
-## 💞️ Comming soon new files...
 
 <!---
 lobanov-andrey/lobanov-andrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
