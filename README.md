@@ -1,6 +1,6 @@
 # Things about me:
 - 👋 I’m @lobanov-andrey and Frontend TypeScript React Developer
-- In 2017 i started working with HTML & CSS
+- In 2017 i started working with HTML & CSS & JS
 - In 2020 i started developing apps with React.js & Express.js
 
 # Little projects
