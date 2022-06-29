@@ -6,7 +6,7 @@
 # Little projects
 ## [Todo list](https://github.com/lobanov-andrey/todo-list) Drug and drop from scratch in written component Sortable, TypeScript, React and Emotion(css in js) 
 ![](https://raw.githubusercontent.com/lobanov-andrey/todo-list/main/preview-v3.gif)
-## [Moment chat](https://github.com/lobanov-andrey/moment-chat) on TypeScript React, NodeJS And Websocket
+## [Moment chat](https://github.com/lobanov-andrey/moment-chat) on TypeScript React, NodeJS, Websocket and Telegram UI from scratch
 ![](https://raw.githubusercontent.com/lobanov-andrey/moment-chat/main/preview.gif)
 ## [Nested task lists](https://github.com/lobanov-andrey/nested-task-lists) from scratch in Pure JS
 ![](https://github.com/lobanov-andrey/nested-task-lists/blob/master/preview.gif)
