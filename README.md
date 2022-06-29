@@ -11,7 +11,7 @@
 
 # Archive projects
 ## [2018 - Nested task lists](https://github.com/lobanov-andrey/nested-task-lists) from scratch in Pure JS
-![](https://raw.githubusercontent.com/lobanov-andrey/nested-task-lists/main/preview.gif)
+![](https://github.com/lobanov-andrey/nested-task-lists/blob/master/preview.gif)
 
 <!---
 lobanov-andrey/lobanov-andrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
