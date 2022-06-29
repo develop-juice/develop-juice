@@ -1,7 +1,7 @@
 # Things about me:
-- 👋 I’m @lobanov-andrey and Frontend TypeScript Developer
+- 👋 I’m @lobanov-andrey and Frontend TypeScript React Developer
 - In 2017 i started working with HTML & CSS
-- In 2019 i started developing apps with React.js & Express.js
+- In 2020 i started developing apps with React.js & Express.js
 
 # Little projects
 ## [Todo list](https://github.com/lobanov-andrey/todo-list) Drug and drop from scratch in written component Sortable, TypeScript, React and Emotion(css in js) 
