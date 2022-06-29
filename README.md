@@ -6,8 +6,8 @@
 # Little projects
 ## [todo-list.lobanov.dev](https://github.com/lobanov-andrey/todo-list) Drug and drop from scratch in written component Sortable, TypeScript, React and Emotion(css in js) 
 ![](https://raw.githubusercontent.com/lobanov-andrey/todo-list/main/preview-v2.gif)
-## [create-privat-chat.com](https://github.com/lobanov-andrey/create-private-chat.com) on TypeScript React, NodeJS And Websocket
-![](https://raw.githubusercontent.com/lobanov-andrey/create-private-chat.com/main/preview.gif)
+## [Moment chat](https://github.com/lobanov-andrey/moment-chat) on TypeScript React, NodeJS And Websocket
+![](https://raw.githubusercontent.com/lobanov-andrey/moment-chat/main/preview.gif)
 
 <!---
 lobanov-andrey/lobanov-andrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
