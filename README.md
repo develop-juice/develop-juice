@@ -6,6 +6,7 @@
 # Demonstration projects
 ## 2022 Year
 ### [Mini shop](https://github.com/lobanov-andrey/mini-shop) MobX, React-router-dom v6, TypeScript, React, Emotion(css in js) and Webpack
+![](https://raw.githubusercontent.com/lobanov-andrey/mini-shop/main/preview.gif)
 ### [Todo list](https://github.com/lobanov-andrey/todo-list) Drag and drop from scratch in written component Sortable, Redux, TypeScript, React, Emotion(css in js) and Webpack
 ![](https://raw.githubusercontent.com/lobanov-andrey/todo-list/main/preview-v3.gif)
 ### [Moment chat](https://github.com/lobanov-andrey/moment-chat) on TypeScript React, NodeJS, Socket.io, Zustand, Telegram UI from scratch with Sass and Webpack
