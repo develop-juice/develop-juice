@@ -1,9 +1,11 @@
-# Things about me:
-- 👋 I’m typescript developer;
+# 👋 Hi, my name is Андрей and i’m typescript developer, below my short history
 - In 2017 i started working with HTML & CSS & JS
-- In 2020 i started developing apps with React.js & Express.js
-- in 2021 i worked with nest.js partially and frontend
+- In 2020 i started developing apps with React.js+SSR & Express.js
+- in 2021 i worked with nest.js, PWA and data base design
 - In 2022 i started working with prisma, trpc, next.js, emotion.css
+- in 2023 i taught blind typing and english
+
+# Contact me in telegram https://t.me/devjuice
 
 # Demonstration projects
 ## 2022 Year
