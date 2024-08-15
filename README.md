@@ -5,7 +5,7 @@
 - In 2022 i started working with prisma, trpc, next.js, emotion.css
 - in 2023 i taught blind typing and english
 
-# Contact me in telegram https://t.me/devjuice
+# Contact me in telegram https://t.me/kododel
 
 # Demonstration projects
 ## 2022 Year
