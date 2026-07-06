@@ -9,7 +9,7 @@
 ## 2022 Year
 ### [Mini shop](https://github.com/develop-juice/mini-shop) MobX, React-router-dom v6, TypeScript, React, Emotion(css in js) and Webpack
 ![](https://raw.githubusercontent.com/develop-juice/mini-shop/main/preview-v2.gif)
-### [Todo list](https://github.com/develop-juice/todo-list) Drag and drop from scratch in written component Sortable, Redux, TypeScript, React, Emotion(css in js) and Webpack
+### [Todo list](https://github.com/develop-juice/todo-list) Adaptive Sortable component drag and drop from scratch. Redux, TypeScript, React, Emotion(css in js) and Webpack
 ![](https://raw.githubusercontent.com/develop-juice/todo-list/main/preview-v3.gif)
 ### [Moment chat](https://github.com/develop-juice/moment-chat) on TypeScript React, NodeJS, Socket.io, Zustand, Telegram UI from scratch with Sass and Webpack
 ![](https://raw.githubusercontent.com/develop-juice/moment-chat/main/preview.gif)
