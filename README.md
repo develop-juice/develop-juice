@@ -7,17 +7,17 @@
 
 # Demonstration projects
 ## 2022 Year
-### [Mini shop](https://github.com/develop-juice/mini-shop) MobX, React-router-dom v6, TypeScript, React, Emotion(css in js) and Webpack
-![](https://raw.githubusercontent.com/develop-juice/mini-shop/main/preview-v2.gif)
-### [Todo list](https://github.com/develop-juice/todo-list) Adaptive Sortable component drag and drop from scratch. Redux, TypeScript, React, Emotion(css in js) and Webpack
-![](https://raw.githubusercontent.com/develop-juice/todo-list/main/preview-v3.gif)
-### [Moment chat](https://github.com/develop-juice/moment-chat) on TypeScript React, NodeJS, Socket.io, Zustand, Telegram UI from scratch with Sass and Webpack
-![](https://raw.githubusercontent.com/develop-juice/moment-chat/main/preview.gif)
+### [Mini shop](https://github.com/lobanov3000/mini-shop) MobX, React-router-dom v6, TypeScript, React, Emotion(css in js) and Webpack
+![](https://raw.githubusercontent.com/lobanov3000/mini-shop/main/preview-v2.gif)
+### [Todo list](https://github.com/lobanov3000/todo-list) Adaptive Sortable component drag and drop from scratch. Redux, TypeScript, React, Emotion(css in js) and Webpack
+![](https://raw.githubusercontent.com/lobanov3000/todo-list/main/preview-v3.gif)
+### [Moment chat](https://github.com/lobanov3000/moment-chat) on TypeScript React, NodeJS, Socket.io, Zustand, Telegram UI from scratch with Sass and Webpack
+![](https://raw.githubusercontent.com/lobanov3000/moment-chat/main/preview.gif)
 ## 2020 Year
-### [Nested task lists](https://github.com/develop-juice/nested-task-lists) from scratch in Pure JS in MVC Pattern
-![](https://github.com/develop-juice/nested-task-lists/blob/master/preview.gif)
+### [Nested task lists](https://github.com/lobanov3000/nested-task-lists) from scratch in Pure JS in MVC Pattern
+![](https://github.com/lobanov3000/nested-task-lists/blob/master/preview.gif)
 
 <!---
-develop-juice/develop-juice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lobanov3000/lobanov3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
